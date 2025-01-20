@@ -3,8 +3,6 @@ import 'package:to_do_app/demo_buttons.dart';
 
 class UIUpdatesDemo extends StatelessWidget {
   const UIUpdatesDemo({super.key});
-
-
   // var _isUnderstood = false;
 
   @override
